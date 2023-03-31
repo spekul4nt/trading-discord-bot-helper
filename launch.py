@@ -28,4 +28,4 @@ async def dziennik(ctx):
     else:
         user_channels[ctx.author.id] += 1
 
-bot.run('MTA4MTYzNDEzMjk5NzcxODAyNg.GhIjgz.srxlLw5FjBjjUwlKRsLElWfX-r_bs00jxFAW00')
+bot.run('BOT_TOKEN')
